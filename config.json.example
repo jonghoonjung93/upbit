@@ -1,0 +1,10 @@
+{
+  "UPBIT": {
+    "ACCESS-KEY": "...",
+    "SECRET-KEY": "..."
+  },
+  "TELEGRAM": {
+    "TOKEN": "...",
+    "CHAT-ID": "..."
+  }
+}
